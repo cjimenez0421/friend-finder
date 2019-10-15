@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Kobe',
+		photo: 'https://cdn.nba.net/nba-drupal-prod/styles/landscape/http/i2.cdn.turner.com/nba/nba/dam/assets/121205095045-120512-kobe-bryant-2009.1280x720.jpg?itok=S-pn5dy3',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'MJ',
+		photo: 'https://img1.grunge.com/img/uploads/2018/12/players-couldnt-stand-michael-jordan.jpg',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Jackie Robinson',
+		photo: 'https://cbsnews2.cbsistatic.com/hub/i/r/2012/04/15/59bbe9a2-a644-11e2-a3f0-029118418759/thumbnail/620x350/30ae65655258e042e875a38f65b51496/Jackie_Robinson_tAP470411035.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'LeBron',
+		photo: 'http://thesource.com/wp-content/uploads/2019/07/Lebron_James__The_King_..jpg',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Tom Brady',
+		photo: 'https://media1.s-nbcnews.com/j/newscms/2019_34/2983126/190823-tom-brady-se-1205p_37489191b47c4557091dbec6300024c2.fit-760w.jpg',
 		scores: [
 			'1',
 			'1',
@@ -81,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'AD',
+		photo: 'https://www.interbasket.net/wp-content/uploads/Anthony-Davis-is-Los-Angeles-Lakers-jersey.jpg',
 		scores: [
 			'1',
 			'1',
@@ -97,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Donald Trump',
+		photo: 'https://static01.nyt.com/images/2019/10/22/opinion/22leonardtSub/merlin_160248591_2883e31a-1b08-487c-9dac-88b37ec03f0c-articleLarge.jpg?quality=75&auto=webp&disable=upscale',
 		scores: [
 			'5',
 			'4',
@@ -113,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'Drake',
+		photo: 'http://thesource.com/wp-content/uploads/2018/12/Drake-is-Spotifys-2018-Most-Streamed-Artist-.jpg',
 		scores: [
 			'5',
 			'2',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Tupac',
+		photo: 'https://i.etsystatic.com/9151851/r/il/78e776/1463299355/il_570xN.1463299355_alwz.jpg',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Da Baby',
+		photo: 'https://southsideballroomdallas.com/wp-content/uploads/2019/09/1221_DaBaby_SSBR_tm_2426x1365-1900x900.jpg',
 		scores: [
 			'1',
 			'1',
