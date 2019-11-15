@@ -9,14 +9,16 @@ body {
 
 header {
     height: 100px;
+    background-color: #3b5998 !important;
 }
 
 header > nav {
     height: 100%;
+    background-color: #3b5998 !important;
 }
 
 nav {
-    background-color: #3b5998;
+    background-color: #3b5998 !important;
 }
 
 main {
@@ -47,7 +49,6 @@ main h1 {
 
 footer.page-footer {
     background-color: #3b5998;
-    
 }
 
 #head-nav-links {
